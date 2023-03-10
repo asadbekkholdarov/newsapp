@@ -1,7 +1,8 @@
 # NewsProject
-
+API-KEY = "ac7b23c0dff847daa5967299e81e92a2"
+download repo and install npm -> ng serve
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
-
+ac7b23c0dff847daa5967299e81e92a2
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
